@@ -57,6 +57,9 @@ A base contém informações de 10.000 clientes e 14 variáveis, incluindo ident
 
 Segundo a análise inicial, os dados disponibilizados já estavam tratados. Entretanto, foi necessário criar variáveis auxiliares e a variável-alvo `Churn` para atender aos objetivos do projeto.
 
+<img width="720" height="454" alt="image" src="https://github.com/user-attachments/assets/558ceb61-18f8-4108-a3f5-2abc00b2ee0c" />
+
+
 ### Definição da variável Churn
 
 Foram utilizadas as seguintes referências temporais:
