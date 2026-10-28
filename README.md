@@ -256,6 +256,7 @@ Os resultados podem apoiar iniciativas de melhoria da experiência do usuário, 
 
 - SQL
 - PostgreSQL
+- DBeaver
 - Excel
 - Power BI
 - CRISP-DM
