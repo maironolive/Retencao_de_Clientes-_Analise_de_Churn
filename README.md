@@ -105,6 +105,9 @@ Foram investigadas as taxas de churn de acordo com diferentes características d
 
 A análise também permitiu observar possíveis relações entre as variáveis e levantar hipóteses sobre os fatores que poderiam contribuir para a perda de clientes.
 
+<img width="673" height="368" alt="image" src="https://github.com/user-attachments/assets/bcdc5be1-6288-4592-b305-1147012a59f2" />
+
+
 ### 4. Information Value (IV)
 
 O Information Value foi utilizado para avaliar o poder discriminatório das variáveis em relação ao churn.
